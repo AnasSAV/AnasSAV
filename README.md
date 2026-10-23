@@ -57,10 +57,5 @@ class Anas:
   <img src="https://streak-stats.demolab.com?user=AnasSAV&background=0d1117&ring=3b8eff&fire=6fc8e8&currStreakLabel=6fc8e8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=21262d&hide_border=true&border_radius=10" alt="GitHub streak" />
 </p>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6fc8e8,55:1f5fd6,100:0d1117&height=120&section=footer" width="100%" alt="" />
-</p>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
